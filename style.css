@@ -5,3 +5,26 @@
 .col-lg-12{
    justify-content: center;
 }
+main{
+   padding-top: 66px;
+  
+   background-color: rgba(0, 0, 0, 0.15)
+}
+li{
+
+padding-left: 250px;
+}
+h1{
+   text-align: center;
+}
+ul{
+  
+   list-style-type: none;
+}
+p{
+   text-align: center;
+
+}
+h3{
+   text-align: center;
+}

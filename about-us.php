@@ -16,10 +16,10 @@ if( isset($_POST["subscribebutton"]))
 
     if($insertData)
     {
-        echo"Data submitted successfully.";
+       echo="Data submitted successfully.";
     }
     else{
-        echo"error occured";
+        echo="error occured";
     }
 
 
@@ -53,12 +53,12 @@ if( isset($_POST["subscribebutton"]))
              <div class="navbar-nav">
                 <a href="index.html" class="nav-link active">Home</a>
                 <a href="#" class="nav-link active">About us</a>
-                <a href="#" class="nav-link active">Contact us</a>
+                <a href="#" class="nav-link active">Register Now</a>
              </div>
           </div>
         </div>
       
-      </nav> -->
+      </nav> 
     <!-- End navion bar -->
 
 
