@@ -7,24 +7,10 @@
     <link rel="stylesheet" href="bootstrap-5.2.0/bootstrap-5.2.0-beta1-dist/css/bootstrap.min.css">
     <title>Bootstrap Grid Layout</title>
 </head>
-    <!-- navigation bar here -->
+    
 <body>
-    <nav class="navbar navbar-expand-lg bg-light fixed-top shadow">
-        <div class="container-fluid">
-            <a href="#" class="navbar-brand">Zalego Academy</a>
-            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbardisplaynavigations" aria-expanded="false">
-                <span class="navbar-toggler-icon"></span>
-            </button>
-          <div class="collapse navbar-collapse" id="navbardisplaynavigations">
-             <div class="navbar-nav">
-                <a href="#" class="nav-link active">Home</a>
-                <a href="about-us.html" class="nav-link active">About us</a>
-                <a href="enrol.html" class="nav-link active">Register Now</a>
-             </div>
-          </div>
-        </div>
-      
-    </nav>
+    <!-- navigation bar here -->
+<?php include('navbar.php')?>
     <!-- End navion bar -->
 
     <main class="p-5 mb-4 bg-light">

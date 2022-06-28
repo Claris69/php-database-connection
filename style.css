@@ -12,7 +12,7 @@ main{
 }
 li{
 
-padding-left: 250px;
+padding-left: 270px;
 }
 h1{
    text-align: center;
@@ -27,4 +27,11 @@ p{
 }
 h3{
    text-align: center;
+}
+head{
+   padding:60px;
+}  
+
+.container-fluid{
+   padding-inline:60px;
 }
